@@ -2,8 +2,11 @@ import { defineNuxtConfig } from '@nuxt/bridge'
 
 const name = 'James Murphy'
 const dates = 'July 29th 1958 - Jan 4th 2021'
-
+const base = process.env.BASE_URL || '/'
 export default defineNuxtConfig ({
+  router: {
+    base
+  },
   bridge: false,
   publicRuntimeConfig: {
     name: name,
