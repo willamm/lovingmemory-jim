@@ -1,0 +1,22 @@
+{
+  "name": "lynhunt.lovingmemory.link",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.32.2",
+    "nuxt": "^2.17.1",
+    "vue-cool-lightbox": "^2.7.5"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
+    "jimp": "^0.22.10",
+    "sass": "^1.66.1",
+    "sass-loader": "^10.4.1"
+  }
+}
