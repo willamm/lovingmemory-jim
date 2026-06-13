@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"lovingmemory-jim\u002F_nuxt\u002Fstatic\u002F1781393019",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{name:"James Murphy",dates:"July 29th 1958 - Jan 4th 2021",_app:{basePath:"lovingmemory-jim\u002F",assetsPath:"lovingmemory-jim\u002F_nuxt\u002F",cdnURL:a}}}}(null));
